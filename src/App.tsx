@@ -44,7 +44,7 @@ function App() {
 
       <UserContext.Provider value={user}>
         <NavBar/>
-        <h1>Hello I have been changed</h1>
+        <h1>Hello I have been changed again</h1>
 
         <Dashboard/>
 
